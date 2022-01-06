@@ -15,8 +15,8 @@ head,body{
     width: 400px; 
     height: 550px;
     margin: 36%;
-    margin-top: 210px;
-    margin-bottom:auto;
+    margin-top: 160px;
+    margin-bottom:15px;
     display: flex;
     flex-direction: column;
     align-self:center;
