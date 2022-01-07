@@ -15,7 +15,7 @@ head,body{
     width: 400px; 
     height: 550px;
     margin: 36%;
-    margin-top: 160px;
+    margin-top: 125px;
     margin-bottom:15px;
     display: flex;
     flex-direction: column;
@@ -160,7 +160,7 @@ head,body{
     .pp{
         height: 100px;
         width: 100px;
-        margin-top: 155px;
+        margin-top: 85px;
         background-position: center;
         background-repeat: no-repeat;
         border-radius: 50%;
